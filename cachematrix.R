@@ -1,3 +1,6 @@
+##This code was made under GNU/Linux System. Feel free to copy, edit & distribute it.
+##
+## @author powerhead Oscar Cortés, Industrial Engineering student at Universidad Nacional de Colombia, ojcortesa@unal.edu.co
 
 ##This script allow create a special type of matrix with function makeCacheMatrix(), this object can remember set, and get
 ##its atributes.
